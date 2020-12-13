@@ -1,2 +1,2 @@
 # ch.ti.bfh.data
-Exercices data-algorithm
+Exercices data-algorithm en java 
