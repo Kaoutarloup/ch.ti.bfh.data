@@ -74,7 +74,7 @@ public class Fibonacci {
    *     <p>This is optimized version of Fibonacci Program. Without using Hashmap and recursion. It
    *     saves both memory and time. Space Complexity will be O(1) Time Complexity will be O(n)
    *     <p>Whereas , the above functions will take O(n) Space.
-   * @author Shoaib Rayeen (https://github.com/shoaibrayeen)
+   *
    */
   public static int fibOptimized(int n) {
     if (n == 0) {
